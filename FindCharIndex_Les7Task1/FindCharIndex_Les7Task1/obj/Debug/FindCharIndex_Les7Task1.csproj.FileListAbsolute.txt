@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\FindCharIndex_Les7Task1\FindCharIndex_Les7Task1\bin\Debug\FindCharIndex_Les7Task1.exe.config
+C:\Users\User\source\repos\FindCharIndex_Les7Task1\FindCharIndex_Les7Task1\bin\Debug\FindCharIndex_Les7Task1.exe
+C:\Users\User\source\repos\FindCharIndex_Les7Task1\FindCharIndex_Les7Task1\bin\Debug\FindCharIndex_Les7Task1.pdb
+C:\Users\User\source\repos\FindCharIndex_Les7Task1\FindCharIndex_Les7Task1\obj\Debug\FindCharIndex_Les7Task1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FindCharIndex_Les7Task1\FindCharIndex_Les7Task1\obj\Debug\FindCharIndex_Les7Task1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\FindCharIndex_Les7Task1\FindCharIndex_Les7Task1\obj\Debug\FindCharIndex_Les7Task1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FindCharIndex_Les7Task1\FindCharIndex_Les7Task1\obj\Debug\FindCharIndex_Les7Task1.exe
+C:\Users\User\source\repos\FindCharIndex_Les7Task1\FindCharIndex_Les7Task1\obj\Debug\FindCharIndex_Les7Task1.pdb
